@@ -1,0 +1,13 @@
+{
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/hindmost/rolling-curl-mini"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "hindmost/rolling-curl-mini": "1.0.*",
+        "sunra/php-simple-html-dom-parser": "v1.5.0"
+    }
+}
